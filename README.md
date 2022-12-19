@@ -8,6 +8,7 @@
 -|-
 kougai.sty | 梗概用のスタイルファイル
 main.tex | 梗概文章
+games.pdf | 文章内の図
 
 # 梗概とは
 
